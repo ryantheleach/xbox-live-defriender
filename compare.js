@@ -29,7 +29,7 @@ before.people = before.people.map(keep);
 after.people = after.people.map(keep);
 
 
-writeFileSync("mini.jsondiff", diffString(before, after, {color: false}));
+writeFileSync("mini.json.diff", diffString(before, after, {color: false}));
 
 var before = read('before.json');
 var after = read('after.json');
@@ -37,11 +37,11 @@ before.people = before.people.map(ignoreProperties);
 after.people = after.people.map(ignoreProperties);
 
 
-writeFileSync("full.jsondiff", diffString(before, after,  {color: false}));
+writeFileSync("full.json.diff", diffString(before, after,  {color: false}));
 
 var gamertags = read('before.json');
 var displayNames = read('before.json');
 gamertags.people = gamertags.people.map((friend => friend.gamertag));
 displayNames.people = displayNames.people.map(friend => friend.displayName);
 
-writeFileSync("nameDiff.jsondiff", diffString(gamertags, displayNames,  {color: false}));
+writeFileSync("nameDiff.json.diff", diffString(gamertags, displayNames,  {color: false}));
