@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">      
+        <title>Xbox Live Defriender</title>
+    </head>
+    <body>
+        <div id="app">
+            <v-app>
+                <v-main>
+                    <v-container fluid>
+                        <v-list threeline>                    
+                            <v-list-item
+                            v-for="item in sortedFriends"
+                            :key="item.xuid"
+                            >
+                            <v-list-item-avatar>
+                                <v-tooltip bottom>
+                                    <template v-slot:activator="{ on, attrs }">
+                                        <v-img
+                                        v-bind="attrs"
+                                        v-on="on"
+                                        :alt="`${item.displayName} avatar`"
+                                        :src="item.displayPicRaw"
+                                        ></v-img>
+                                    </template>
+                                    <v-img
+                                    v-bind="attrs"
+                                    v-on="on"
+                                    :alt="`${item.displayName} avatar`"
+                                    :src="item.displayPicRaw"
+                                    ></v-img>
+                                </v-tooltip>
+                            </v-list-item-avatar>
+                    
+                            <v-list-item-content>
+                                <v-list-item-title v-text="item.gamertag + '('+item.displayName+' / ' + item.realName +')'"></v-list-item-title>
+                                <v-list-item-subtitle v-text="new Date(item.addedDateTimeUtc)"></v-list-item-subtitle>
+                            </v-list-item-content>
+                            
+                            <v-list-item-icon>
+                                
+                            <v-tooltip top>
+                                <template v-slot:activator="{ on, attrs }">
+                                    <v-icon 
+                                    v-bind="attrs"
+                                    v-on="on"
+                                    :color="item.isFollowingCaller ? 'deep-purple accent-4' : 'red'"
+                                    >
+                                        {{ item.icon }}
+                                    </v-icon>
+                                </template>
+                                <span>
+                                    <span v-if="item.isFavorite">You have favorited {{item.displayName}}<br/></span>
+                                    <span v-if="!item.isFollowingCaller">Does not follow you back</span>
+                                    <span v-if="!item.isFollowingCaller">Follows you back</span>
+                                </span>
+                            </v-tooltip>
+                            </v-list-item-icon>
+                            </v-list-item>
+                        </v-list>
+                    </v-container>
+                </v-main>
+            </v-app>
+            <ul id="example-1">
+                <li v-for="item in friends.people" :key="item.displayName">
+                  <img :src="item.displayPicRaw"/>
+                  <span>{{ item.displayName }}</span>
+                </li>
+            </ul>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>

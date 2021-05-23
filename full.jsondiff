@@ -1,0 +1,2632 @@
+ {
+   people: [
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274933616690"[39m
+[31m-      isFavorite: true[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2020-04-15T09:50:20.068943Z"[39m
+[31m-      displayName: "SassyWFox"[39m
+[31m-      realName: "Heather Bull"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "SassyWFox"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "744DA9"[39m
+[31m-        secondaryColor: "24153B"[39m
+[31m-        tertiaryColor: "4c208a"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535443771606359"[39m
+[31m-      isFavorite: true[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2019-05-09T18:20:05.5579096Z"[39m
+[31m-      displayName: "hharu6679"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "hharu6679"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "1081ca"[39m
+[31m-        secondaryColor: "10314f"[39m
+[31m-        tertiaryColor: "105080"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535412086740027"[39m
+[31m-      isFavorite: true[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2020-03-16T06:38:04.7283354Z"[39m
+[31m-      displayName: "Colorbubbles861"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Colorbubbles861"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+[31m-    {[39m
+[31m-      xuid: "2535420545920812"[39m
+[31m-      isFavorite: true[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2020-02-28T10:33:39.2547172Z"[39m
+[31m-      displayName: "Vicilus"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Vicilus"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "1073d6"[39m
+[31m-        secondaryColor: "133157"[39m
+[31m-        tertiaryColor: "134e8a"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274911216502"[39m
+[31m-      isFavorite: true[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2019-12-04T11:36:27.5911479Z"[39m
+[31m-      displayName: "zapmaster14"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "zapmaster14"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "e31123"[39m
+[31m-        secondaryColor: "471010"[39m
+[31m-        tertiaryColor: "851414"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274849530323"[39m
+[31m-      isFavorite: true[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2019-01-10T11:12:17.3694347Z"[39m
+[31m-      displayName: "Riffwaffle"[39m
+[31m-      realName: "Aidan ryan"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "Riffwaffle"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "1081ca"[39m
+[31m-        secondaryColor: "10314f"[39m
+[31m-        tertiaryColor: "105080"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535451116722006"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2020-11-14T23:41:47.8059053Z"[39m
+[31m-      displayName: "Dregs McGee"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Dregs McGee"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274977580292"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2020-09-07T16:41:14.7153939Z"[39m
+[31m-      displayName: "xxPsyRebelxx"[39m
+[31m-      realName: "Rebel Douch"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "xxPsyRebelxx"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+[31m-    {[39m
+[31m-      xuid: "2535435422150846"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2020-06-22T14:11:44.4539406Z"[39m
+[31m-      displayName: "Xinrak"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Xinrak"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+[31m-    {[39m
+[31m-      xuid: "2535445956055282"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2020-05-14T07:05:45.2083801Z"[39m
+[31m-      displayName: "XxSenSatanxX"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "XxSenSatanxX"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "eb4910"[39m
+[31m-        secondaryColor: "692015"[39m
+[31m-        tertiaryColor: "ab2d11"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+[31m-    {[39m
+[31m-      xuid: "2533274880729275"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2020-05-14T02:34:28.3335546Z"[39m
+[31m-      displayName: "mumky jones"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "mumky jones"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "a21025"[39m
+[31m-        secondaryColor: "450710"[39m
+[31m-        tertiaryColor: "691117"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274928201610"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2019-12-04T11:38:17.7243548Z"[39m
+[31m-      displayName: "Tylenniron"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "Tylenniron"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "193e91"[39m
+[31m-        secondaryColor: "101836"[39m
+[31m-        tertiaryColor: "102c69"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535469977159774"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2019-07-14T13:42:55.0888291Z"[39m
+[31m-      displayName: "xMissAntisocial"[39m
+[31m-      realName: "𝓔𝓵𝓵𝓮 ✿"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "xMissAntisocial"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "4c4a4b"[39m
+[31m-        secondaryColor: "191919"[39m
+[31m-        tertiaryColor: "373737"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535447530071679"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2019-05-14T11:30:35.4247468Z"[39m
+[31m-      displayName: "Truminhier"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Truminhier"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274932590177"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2019-01-11T13:53:09.0365777Z"[39m
+[31m-      displayName: "YoFreshBean"[39m
+[31m-      realName: "Dannielle Macpherson"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "YoFreshBean"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "eb8c10"[39m
+[31m-        secondaryColor: "4f300e"[39m
+[31m-        tertiaryColor: "a55f10"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274860998619"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2018-08-18T15:27:53.5190757Z"[39m
+[31m-      displayName: "SWAGGER077"[39m
+[31m-      realName: "John Guest"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "SWAGGER077"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "4c4a4b"[39m
+[31m-        secondaryColor: "191919"[39m
+[31m-        tertiaryColor: "373737"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535449382830037"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2018-08-02T12:49:02.7296872Z"[39m
+[31m-      displayName: "I Am Jimp"[39m
+[31m-      realName: "Anthony Bullimore"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "I Am Jimp"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274874472464"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2018-04-28T17:15:00.6682778Z"[39m
+[31m-      displayName: "TswiftisMyLover"[39m
+[31m-      realName: "Taylor Swift 💖💖💖💖"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "TswiftisMyLover"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "193e91"[39m
+[31m-        secondaryColor: "101836"[39m
+[31m-        tertiaryColor: "102c69"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535440212027971"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2018-04-20T17:08:00.6883148Z"[39m
+[31m-      displayName: "Captain VonDank"[39m
+[31m-      realName: "Patrick Ince"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Captain VonDank"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+[31m-    {[39m
+[31m-      xuid: "2533274862840556"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2018-04-19T16:12:10.6991319Z"[39m
+[31m-      displayName: "TehPuppy"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "TehPuppy"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "a21025"[39m
+[31m-        secondaryColor: "450710"[39m
+[31m-        tertiaryColor: "691117"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535444245078564"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2018-04-04T22:04:58.776165Z"[39m
+[31m-      displayName: "Ten Of Swords"[39m
+[31m-      realName: "Luke Van Houten"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Ten Of Swords"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "54a81b"[39m
+[31m-        secondaryColor: "103610"[39m
+[31m-        tertiaryColor: "107c10"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535465675230984"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: true[39m
+[31m-      addedDateTimeUtc: "2018-03-06T13:20:57.0958934Z"[39m
+[31m-      displayName: "HypEarth"[39m
+[31m-      realName: "Greg Bowering"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "HypEarth"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+[32m+    {[39m
+[32m+      xuid: "2533274857767925"[39m
+[32m+      isFavorite: false[39m
+[32m+      isFollowingCaller: true[39m
+[32m+      isFollowedByCaller: true[39m
+[32m+      isIdentityShared: false[39m
+[32m+      addedDateTimeUtc: "2021-05-23T10:16:51.3910378Z"[39m
+[32m+      displayName: "MaST3r NiCK0 12"[39m
+[32m+      useAvatar: true[39m
+[32m+      gamertag: "MaST3r NiCK0 12"[39m
+[32m+      xboxOneRep: "GoodPlayer"[39m
+[32m+      presenceDevices: null[39m
+[32m+      isBroadcasting: false[39m
+[32m+      isCloaked: null[39m
+[32m+      isQuarantined: false[39m
+[32m+      suggestion: null[39m
+[32m+      recommendation: null[39m
+[32m+      titleHistory: null[39m
+[32m+      recentPlayer: null[39m
+[32m+      follower: null[39m
+[32m+      preferredColor: {[39m
+[32m+        primaryColor: "148282"[39m
+[32m+        secondaryColor: "103033"[39m
+[32m+        tertiaryColor: "13585E"[39m
+[32m+      }[39m
+[32m+      presenceDetails: null[39m
+[32m+      titlePresence: null[39m
+[32m+      titleSummaries: null[39m
+[32m+      presenceTitleIds: null[39m
+[32m+      detail: null[39m
+[32m+      communityManagerTitles: null[39m
+[32m+      socialManager: {[39m
+[32m+        titleIds: [[39m
+[32m+        ][39m
+[32m+        pages: [[39m
+[32m+        ][39m
+[32m+      }[39m
+[32m+      broadcast: [[39m
+[32m+      ][39m
+[32m+      tournamentSummary: null[39m
+[32m+      avatar: null[39m
+[32m+    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535405819271846"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2021-01-25T04:06:17.3612392Z"[39m
+[31m-      displayName: "DystrictReturns"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "DystrictReturns"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535471741903791"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2020-12-12T08:03:52.3068651Z"[39m
+[31m-      displayName: "ttvsilkenver"[39m
+[31m-      realName: "Kyle Holton"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "ttvsilkenver"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535437043726726"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2020-11-21T09:47:14.2682548Z"[39m
+[31m-      displayName: "XFire4309"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "XFire4309"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535421504307303"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2020-11-01T13:53:20.4777507Z"[39m
+[31m-      displayName: "Yaacovn"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Yaacovn"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535435109117518"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2020-09-07T16:26:58.7591791Z"[39m
+[31m-      displayName: "ashraefell"[39m
+[31m-      realName: "byron orpheus"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "ashraefell"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535407305405987"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2020-05-05T15:34:39.7247324Z"[39m
+[31m-      displayName: "Fake Klown"[39m
+[31m-      realName: "Josh Lowry"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Fake Klown"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "eb4910"[39m
+[31m-        secondaryColor: "692015"[39m
+[31m-        tertiaryColor: "ab2d11"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535423471277132"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2020-03-22T12:52:29.574029Z"[39m
+[31m-      displayName: "Elite VoItage"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "Elite VoItage"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "193e91"[39m
+[31m-        secondaryColor: "101836"[39m
+[31m-        tertiaryColor: "102c69"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+[32m+    {[39m
+[32m+      xuid: "2535423471277132"[39m
+[32m+      isFavorite: false[39m
+[32m+      isFollowingCaller: true[39m
+[32m+      isFollowedByCaller: true[39m
+[32m+      isIdentityShared: false[39m
+[32m+      addedDateTimeUtc: "2020-03-22T12:52:29.574029Z"[39m
+[32m+      displayName: "Elite VoItage"[39m
+[32m+      useAvatar: true[39m
+[32m+      gamertag: "Elite VoItage"[39m
+[32m+      xboxOneRep: "GoodPlayer"[39m
+[32m+      presenceDevices: null[39m
+[32m+      isBroadcasting: false[39m
+[32m+      isCloaked: null[39m
+[32m+      isQuarantined: false[39m
+[32m+      suggestion: null[39m
+[32m+      recommendation: null[39m
+[32m+      titleHistory: null[39m
+[32m+      recentPlayer: null[39m
+[32m+      follower: null[39m
+[32m+      preferredColor: {[39m
+[32m+        primaryColor: "193e91"[39m
+[32m+        secondaryColor: "101836"[39m
+[32m+        tertiaryColor: "102c69"[39m
+[32m+      }[39m
+[32m+      presenceDetails: null[39m
+[32m+      titlePresence: null[39m
+[32m+      titleSummaries: null[39m
+[32m+      presenceTitleIds: null[39m
+[32m+      detail: null[39m
+[32m+      communityManagerTitles: null[39m
+[32m+      socialManager: {[39m
+[32m+        titleIds: [[39m
+[32m+        ][39m
+[32m+        pages: [[39m
+[32m+        ][39m
+[32m+      }[39m
+[32m+      broadcast: [[39m
+[32m+      ][39m
+[32m+      tournamentSummary: null[39m
+[32m+      avatar: null[39m
+[32m+    }[39m
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274796915966"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2020-02-28T11:47:06.9203058Z"[39m
+[31m-      displayName: "Danglebagg"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Danglebagg"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "148282"[39m
+[31m-        secondaryColor: "103033"[39m
+[31m-        tertiaryColor: "13585E"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274873476745"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2019-08-26T13:45:04.2834786Z"[39m
+[31m-      displayName: "Gundy the Shark"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Gundy the Shark"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533275013196159"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2019-08-07T11:20:34.0920241Z"[39m
+[31m-      displayName: "ComfortWoman"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "ComfortWoman"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "108272"[39m
+[31m-        secondaryColor: "102b26"[39m
+[31m-        tertiaryColor: "115e50"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535467552854693"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2019-07-14T13:43:10.4158688Z"[39m
+[31m-      displayName: "DaddyDamo98"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "DaddyDamo98"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "b144c0"[39m
+[31m-        secondaryColor: "38163D"[39m
+[31m-        tertiaryColor: "671a73"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+[31m-    {[39m
+[31m-      xuid: "2533274983234935"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2019-07-04T13:22:59.7646129Z"[39m
+[31m-      displayName: "JakeyTheXKid"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "JakeyTheXKid"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "193e91"[39m
+[31m-        secondaryColor: "101836"[39m
+[31m-        tertiaryColor: "102c69"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535454230346519"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2019-03-05T07:53:38.4517488Z"[39m
+[31m-      displayName: "dragon040809"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "dragon040809"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "744DA9"[39m
+[31m-        secondaryColor: "24153B"[39m
+[31m-        tertiaryColor: "4c208a"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535441299079959"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2019-02-26T18:01:20.8697135Z"[39m
+[31m-      displayName: "Linksyx"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "Linksyx"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535422695330848"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2019-01-24T12:23:26.6196059Z"[39m
+[31m-      displayName: "JonnyTieM"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "JonnyTieM"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535452664550583"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2018-10-05T16:26:02.6595772Z"[39m
+[31m-      displayName: "executer514"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "executer514"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "193e91"[39m
+[31m-        secondaryColor: "101836"[39m
+[31m-        tertiaryColor: "102c69"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535447946051752"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2018-08-09T11:34:51.1062279Z"[39m
+[31m-      displayName: "BangableRoz"[39m
+[31m-      realName: "jayden carlson"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "BangableRoz"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535470853964191"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2018-05-15T14:49:52.1520812Z"[39m
+[31m-      displayName: "zozoldln"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "zozoldln"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "e31123"[39m
+[31m-        secondaryColor: "471010"[39m
+[31m-        tertiaryColor: "851414"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535440908201545"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2018-05-05T11:57:52.3297002Z"[39m
+[31m-      displayName: "SuperLougat"[39m
+[31m-      realName: "L B"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "SuperLougat"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "eb8c10"[39m
+[31m-        secondaryColor: "4f300e"[39m
+[31m-        tertiaryColor: "a55f10"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+[31m-    {[39m
+[31m-      xuid: "2535413016853775"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2018-05-05T11:24:02.5726338Z"[39m
+[31m-      displayName: "evenhandNOR"[39m
+[31m-      realName: "Even Handeland"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "evenhandNOR"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "1081ca"[39m
+[31m-        secondaryColor: "10314f"[39m
+[31m-        tertiaryColor: "105080"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274921488611"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2018-04-28T17:24:54.3946544Z"[39m
+[31m-      displayName: "Vendetta x77"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "Vendetta x77"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "ed5588"[39m
+[31m-        secondaryColor: "57172d"[39m
+[31m-        tertiaryColor: "9e2950"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274902481225"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2018-04-20T15:55:42.7964843Z"[39m
+[31m-      displayName: "Weavsies"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "Weavsies"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "1081ca"[39m
+[31m-        secondaryColor: "10314f"[39m
+[31m-        tertiaryColor: "105080"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533275017310309"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2018-04-15T14:26:26.6961192Z"[39m
+[31m-      displayName: "L00nyTik"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "L00nyTik"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "744DA9"[39m
+[31m-        secondaryColor: "24153B"[39m
+[31m-        tertiaryColor: "4c208a"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2535450170461063"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2018-03-23T09:48:56.2800794Z"[39m
+[31m-      displayName: "TheRuIe"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "TheRuIe"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+[31m-    {[39m
+[31m-      xuid: "2535433571893324"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: false[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2018-03-23T07:44:43.1116009Z"[39m
+[31m-      displayName: "TimSim000"[39m
+[31m-      realName: "Tim ."[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "TimSim000"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274914015459"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2012-04-14T19:09:54.5Z"[39m
+[31m-      displayName: "Kenpachi RS"[39m
+[31m-      realName: "Jaudan Morrow"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "Kenpachi RS"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "107c10"[39m
+[31m-        secondaryColor: "102b14"[39m
+[31m-        tertiaryColor: "155715"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274809610315"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2011-08-13T16:09:28.237Z"[39m
+[31m-      displayName: "Dark Lord R220"[39m
+[31m-      realName: "Alex Pinyon"[39m
+[31m-      useAvatar: true[39m
+[31m-      gamertag: "Dark Lord R220"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "737373"[39m
+[31m-        secondaryColor: "262626"[39m
+[31m-        tertiaryColor: "4f4f4f"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+[31m-    {[39m
+[31m-      xuid: "2533274828464284"[39m
+[31m-      isFavorite: false[39m
+[31m-      isFollowingCaller: true[39m
+[31m-      isFollowedByCaller: true[39m
+[31m-      isIdentityShared: false[39m
+[31m-      addedDateTimeUtc: "2008-11-08T01:46:18.7Z"[39m
+[31m-      displayName: "xxREAPERxx666xx"[39m
+[31m-      realName: "Dylan Marsden"[39m
+[31m-      useAvatar: false[39m
+[31m-      gamertag: "xxREAPERxx666xx"[39m
+[31m-      xboxOneRep: "GoodPlayer"[39m
+[31m-      presenceDevices: null[39m
+[31m-      isBroadcasting: false[39m
+[31m-      isCloaked: null[39m
+[31m-      isQuarantined: false[39m
+[31m-      suggestion: null[39m
+[31m-      recommendation: null[39m
+[31m-      titleHistory: null[39m
+[31m-      recentPlayer: null[39m
+[31m-      follower: null[39m
+[31m-      preferredColor: {[39m
+[31m-        primaryColor: "737373"[39m
+[31m-        secondaryColor: "262626"[39m
+[31m-        tertiaryColor: "4f4f4f"[39m
+[31m-      }[39m
+[31m-      presenceDetails: null[39m
+[31m-      titlePresence: null[39m
+[31m-      titleSummaries: null[39m
+[31m-      presenceTitleIds: null[39m
+[31m-      detail: null[39m
+[31m-      communityManagerTitles: null[39m
+[31m-      socialManager: {[39m
+[31m-        titleIds: [[39m
+[31m-        ][39m
+[31m-        pages: [[39m
+[31m-        ][39m
+[31m-      }[39m
+[31m-      broadcast: [[39m
+[31m-      ][39m
+[31m-      tournamentSummary: null[39m
+[31m-      avatar: null[39m
+[31m-    }[39m
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+     ...
+   ]
+ }
